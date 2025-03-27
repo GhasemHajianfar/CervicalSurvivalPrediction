@@ -1,0 +1,26 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Output files
+*.csv
+!Data.csv  # Keep this file as it's required for the model
+*.rds
+!model/*.rds  # Keep model files
+!normalize/*.rds  # Keep normalization files
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.log
+*.tmp 
