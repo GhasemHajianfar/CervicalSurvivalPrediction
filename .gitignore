@@ -5,7 +5,8 @@
 # Output files
 *.csv
 Data.csv
-
+!model/*.rds  # Keep model files
+!normalize/*.rds  # Keep normalization files
 # OS specific
 .DS_Store
 Thumbs.db
