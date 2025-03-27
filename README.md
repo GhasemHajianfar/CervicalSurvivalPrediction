@@ -1,4 +1,4 @@
-# Cervical Cancer Survival Prediction Model
+# Cervical Cancer Survival Prediction Model bade on PET Radiomics
 
 This repository contains code for predicting survival outcomes in cervical cancer patients using an ensemble of machine learning models.
 
@@ -83,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 
 If you use this code in your research, please cite:
-[Your citation information] 
+Pre-Treatment PET Radiomics: A Powerful Predictor of Disease-Free Survival in Cervical Cancer (submitted to Medical Physics)
