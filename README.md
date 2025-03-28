@@ -30,8 +30,8 @@ This repository contains code for predicting survival outcomes in cervical cance
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Cervical.git
-cd Cervical
+git clone https://github.com/GhasemHajianfar/CervicalSurvivalPrediction.git
+cd CervicalSurvivalPrediction
 ```
 
 2. Install required R packages:
