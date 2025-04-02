@@ -83,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 
 If you use this code in your research, please cite:
-Pre-Treatment PET Radiomics: A Powerful Predictor of Disease-Free Survival in Cervical Cancer (submitted to Medical Physics)
+Pre-Treatment PET Radiomics for Prediction of Disease-Free Survival in Cervical Cancer (submitted to Medical Physics)
